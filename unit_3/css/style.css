@@ -59,6 +59,12 @@ ul {
 	padding: 50px;
 }
 
+.ready {
+	background-color: #086375;
+	border-radius: 36px;
+	color: #fff
+}
+
 footer {
     display: block;
     justify-content: left;
