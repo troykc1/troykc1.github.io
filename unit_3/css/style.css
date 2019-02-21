@@ -33,6 +33,11 @@ ul {
 	color: #086375
 }
 
+#logo {
+	font-family: 'Fredoka One', cursive;
+	text-transform: uppercase;
+}
+
 .subhead {
 	font-family: century-gothic, sans-serif;
 	font-weight: 700;
