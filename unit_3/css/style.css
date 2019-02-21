@@ -63,6 +63,7 @@ ul {
 	background-color: #086375;
 	border-radius: 36px;
 	color: #fff
+	display: inline-block;
 }
 
 footer {
