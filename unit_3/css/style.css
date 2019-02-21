@@ -46,7 +46,7 @@ article {
 }
 
 footer {
-    display: block;
+    display: flex;
     justify-content: left;
     padding: 40px;
     background-color: #086375;
