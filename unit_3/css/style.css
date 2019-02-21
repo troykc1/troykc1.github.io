@@ -46,18 +46,22 @@ ul {
 	text-transform: uppercase;
 }
 
+#ready {
+	font-family: century-gothic, sans-serif;
+	font-weight: 900;
+	font-style: normal;
+	color: #086375
+	display: block;
+    justify-content: left;
+    padding: 40px;
+    background-color: #086375;
+    color: #fff;
+}
+
 .subhead {
 	font-family: century-gothic, sans-serif;
 	font-weight: 700;
 	font-style: normal;
-}
-
-.explainer {
-	display: block;
-    justify-content: left;
-    padding: 40px;
-    background-color: #fff;
-    color: #086375;
 }
 
 footer {
