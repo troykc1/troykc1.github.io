@@ -52,6 +52,12 @@ ul {
 	font-style: normal;
 }
 
+.prefooter {
+	background-color: #fff;
+	color: #086375;
+	text-align: center;
+}
+
 footer {
     display: block;
     justify-content: left;
