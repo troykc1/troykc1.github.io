@@ -46,9 +46,9 @@ article {
 }
 
 footer {
-    display: flex;
+    display: block;
     justify-content: left;
-    padding: 5px;
+    padding: 10px;
     background-color: #086375;
     color: #fff;
 }
