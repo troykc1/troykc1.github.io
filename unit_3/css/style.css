@@ -63,7 +63,8 @@ ul {
 	background-color: #086375;
 	border-radius: 36px;
 	color: #fff
-	display: inline-block;
+	font-weight: 600;
+	line-height: 1.5;
 }
 
 footer {
