@@ -56,13 +56,13 @@ ul {
 	background-color: #fff;
 	color: #086375;
 	text-align: center;
-	padding: 40px;
+	padding: 50px;
 }
 
 footer {
     display: block;
     justify-content: left;
-    padding: 40px;
+    padding: 50px;
     background-color: #086375;
     color: #fff;
 }
