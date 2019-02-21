@@ -61,6 +61,14 @@ ul {
 
 .ready {
 	background-color: #086375;
+	border: none;
+	color: #fff;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	margin: 4px 2px;
+	cursor: pointer;
 	border-radius: 36px;
 	color: #fff;
 }
