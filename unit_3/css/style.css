@@ -47,8 +47,8 @@ article {
 
 footer {
     display: flex;
-    justify-content: center;
+    justify-content: left;
     padding: 5px;
-    background-color: #45a1ff;
+    background-color: #086375;
     color: #fff;
 }
