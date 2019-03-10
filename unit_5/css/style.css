@@ -60,6 +60,11 @@ ul {
 	color: #fff;
 }
 
+#wrapper {
+    width: 500px;
+    margin: 0 auto;
+}
+
 footer {
     display: block;
     justify-content: left;
