@@ -4,14 +4,6 @@ body {
 	margin: 0;
 }
 
-/* Remove */
-header {
-	background-color: #FFED74;
-    border: 1px black solid;
-    padding: 20px;
-}
-/* Remove */
-
 nav {
 	display: block;
     padding: 15px;
