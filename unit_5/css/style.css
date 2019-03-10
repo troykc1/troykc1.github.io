@@ -115,8 +115,11 @@ section {
 footer {
     display: block;
     justify-content: left;
-    padding: 50px;
+    /* Change padding back to 50px */
+    padding: 20px;
     /* Change color back to #086375 */
     background-color: #FF957E;
+    /* Remove */
+    border: 1px black solid;
     color: #fff;
 }
