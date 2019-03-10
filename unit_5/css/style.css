@@ -47,6 +47,12 @@ ul {
     color: #fff;
 }
 
+.hero {
+	/* Sizing */
+    width: 100vw;
+    height: 100vh;
+}
+
 .subhead {
 	font-family: century-gothic, sans-serif;
 	font-weight: 700;
