@@ -50,6 +50,10 @@ ul {
 	font-style: bold;
 }
 
+.carousel {
+	justify-content: center;
+}
+
 .prefooter {
 	background-color: #fff;
 	color: #086375;
