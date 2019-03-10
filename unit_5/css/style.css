@@ -61,6 +61,15 @@ ul {
     text-align: center;
 }
 
+.hero h1 {
+    /* Text styles */
+    font-size: 5em;
+
+    /* Margins */
+    margin-top: 0;
+    margin-bottom: 0.5em;
+}
+
 .subhead {
 	font-family: century-gothic, sans-serif;
 	font-weight: 700;
