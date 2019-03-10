@@ -36,67 +36,6 @@ ul {
 	font-style: normal;
 }
 
-.navigation {
-	font-family: century-gothic, sans-serif;
-	font-weight: 400;
-	font-style: normal;
-	width: 100%;
-	height: 40px;
-	display: block;
-    padding: 15px;
-    color: #fff;
-}
-
-.hero {
-	/* Sizing */
-    width: 100vw;
-    height: 100vh;
-
-    /* Flexbox stuff */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
-    /* Text styles */
-    text-align: center;
-}
-
-.hero h1 {
-    /* Text styles */
-    font-family: century-gothic, sans-serif;
-	font-weight: 900;
-	font-style: normal;
-    font-size: 2em;
-
-    /* Margins */
-    margin-top: 0;
-    margin-bottom: 0.5em;
-}
-
-.hero .button {
-    /* Positioning and sizing */
-    display: block;
-    width: 200px;
-    
-    /* Padding and margins */
-    padding: 1em;
-    margin-top: 50px;
-    margin-left: auto;
-    margin-right: auto;
-
-    /* Border styles */
-    background-color: #F26061;
-	border: none;
-	border-radius: 10px;
-
-	/* Text styles */
-    color: #fff;
-    text-decoration: none;
-    font-size: 1.5em;
-}
-
-}
-
 .subhead {
 	font-family: century-gothic, sans-serif;
 	font-weight: 700;
