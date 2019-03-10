@@ -33,17 +33,6 @@ ul {
 	font-style: normal;
 }
 
-#logo {
-	font-family: 'Fredoka One', cursive;
-	text-transform: uppercase;
-}
-
-.rinsed-logo {
-	background-image: url(images/rinsed-logo-bs.png);
-	width: 83px;
-	height: 50px;
-}
-
 .subhead {
 	font-family: century-gothic, sans-serif;
 	font-weight: 700;
