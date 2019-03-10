@@ -43,8 +43,16 @@ ul {
 	height: 40px;
 	display: block;
     padding: 15px;
-    background-color: #fff;
     color: #fff;
+}
+
+}
+.navigation > a {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+    height: 80px;        /* if you want it to take the full height of the bar */
+    line-height: 80px;    /* if you want it vertically middle of the navbar */
 }
 
 .subhead {
