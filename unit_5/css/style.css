@@ -53,9 +53,11 @@ ul {
 	text-decoration: none;
 }
 
+/* Remove */
 section {
 	background-color: #FFE2B8;
 }
+/* Remove */
 
 .subhead {
 	font-family: century-gothic, sans-serif;
@@ -64,7 +66,8 @@ section {
 }
 
 .prefooter {
-	background-color: #fff;
+	/* Change background color back to #FFF */
+	background-color: ##FFE2B8;
 	color: #086375;
 	text-align: center;
 	padding: 50px;
