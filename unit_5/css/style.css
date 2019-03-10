@@ -10,17 +10,6 @@ nav {
     color: #fff;
 }
 
-header {
-	background-repeat:no-repeat;
-    background-color:#000000;
-    background: url(washer_homepage_rinsed.png) no-repeat;
-    width: 100%;
-    height: 235px;
-    padding: 0;
-    margin: auto 0;
-
-}
-
 h1 {
 	color: #086375;
 }
