@@ -3,6 +3,10 @@ body {
 	color: #484848;
 }
 
+nav {
+  display: block;
+}
+
 h1 {
 	color: #086375;
 }
