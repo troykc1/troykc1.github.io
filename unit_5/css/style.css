@@ -14,9 +14,11 @@ header {
 
 nav {
 	display: block;
-    padding: 15px;
-    /* Change color back to #fff*/
+	/* Change back to 15px */
+    padding: 20px;
+    /* Change color back to #fff */
     background-color: #E8C66A;
+    border: 1px black solid;
     color: #fff;
 }
 
