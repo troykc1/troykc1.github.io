@@ -73,6 +73,21 @@ ul {
     margin-bottom: 0.5em;
 }
 
+.hero .button {
+    /* Positioning and sizing */
+    display: block;
+    width: 200px;
+    
+    /* Padding and margins */
+    padding: 1em;
+    margin-top: 50px;
+    
+    /* Border styles */
+    border: 3px solid black;
+}
+
+}
+
 .subhead {
 	font-family: century-gothic, sans-serif;
 	font-weight: 700;
