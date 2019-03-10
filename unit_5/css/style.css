@@ -4,10 +4,19 @@ body {
 	margin: 0;
 }
 
+/* Remove */
+header {
+	background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+/* Remove */
+
 nav {
 	display: block;
     padding: 15px;
-    background-color: #fff;
+    /* Change color back to #fff*/
+    background-color: #E8C66A;
     color: #fff;
 }
 
