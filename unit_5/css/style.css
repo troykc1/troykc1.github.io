@@ -1,0 +1,82 @@
+html {
+	box-sizing: border-box;
+	padding: 10px;
+	padding-top: 0px
+}
+
+
+body {
+	background-color: #E8F0F2;
+	color: #484848;
+}
+
+h1 {
+	color: #086375;
+}
+
+h2 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+	font-style: normal;
+	color: #086375
+}
+
+p {
+	font-family: century-gothic, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+ul {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+#slogan {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	font-style: italic;
+	color: #086375
+	margin-left: 100px;
+}
+
+#logo {
+	font-family: 'Fredoka One', cursive;
+	text-transform: uppercase;
+}
+
+.subhead {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+	font-style: bold;
+}
+
+.prefooter {
+	background-color: #fff;
+	color: #086375;
+	text-align: center;
+	padding: 50px;
+}
+
+.ready {
+	background-color: #086375;
+	border: none;
+	color: #fff;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 36px;
+	color: #fff;
+}
+
+footer {
+    display: block;
+    justify-content: left;
+    padding: 50px;
+    background-color: #086375;
+    color: #fff;
+}
