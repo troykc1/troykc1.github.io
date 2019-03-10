@@ -3,6 +3,13 @@ body {
 	color: #484848;
 }
 
+nav {
+	display: block;
+    padding: 15px;
+    background-color: #fff;
+    color: #fff;
+}
+
 h1 {
 	color: #086375;
 }
@@ -34,7 +41,10 @@ ul {
 	font-style: normal;
 	width: 100%;
 	height: 40px;
-	background-color: #D0CCD0;
+	display: block;
+    padding: 15px;
+    background-color: #fff;
+    color: #fff;
 }
 
 .subhead {
