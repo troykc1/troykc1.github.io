@@ -63,6 +63,11 @@ ul {
 	color: #fff;
 }
 
+#button-one {
+	text-align: center;
+	padding: 50px;
+}
+
 #intro {
 	font-family: century-gothic, sans-serif;
 	font-weight: 400;
