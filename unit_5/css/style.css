@@ -3,6 +3,13 @@ body {
 	color: #484848;
 }
 
+nav {
+	display: block;
+    padding: 50px;
+    background-color: #fff;
+    color: #fff;
+}
+
 h1 {
 	color: #086375;
 }
