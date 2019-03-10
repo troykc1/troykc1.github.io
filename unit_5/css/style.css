@@ -104,6 +104,7 @@ footer {
     display: block;
     justify-content: left;
     padding: 50px;
-    background-color: #086375;
+    /* Change color back to #086375 */
+    background-color: #FF957E;
     color: #fff;
 }
