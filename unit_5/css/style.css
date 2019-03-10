@@ -36,6 +36,11 @@ ul {
 	font-style: normal;
 }
 
+.hero {
+	display: block;
+	margin: 0 auto;
+}
+
 .subhead {
 	font-family: century-gothic, sans-serif;
 	font-weight: 700;
