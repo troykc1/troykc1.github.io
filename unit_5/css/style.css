@@ -59,6 +59,14 @@ ul {
 	padding-top: 0px
 }
 
+#navigation {
+	display: block;
+  	color: white;
+  	text-align: center;
+  	padding: 14px 16px;
+  	text-decoration: none;
+}
+
 footer {
     display: block;
     justify-content: left;
