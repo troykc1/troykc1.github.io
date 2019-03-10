@@ -83,7 +83,9 @@ ul {
     margin-top: 50px;
     
     /* Border styles */
-    border: 3px solid black;
+    background-color: #086375;
+	border: none;
+	color: #fff;
 }
 
 }
