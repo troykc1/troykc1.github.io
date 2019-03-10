@@ -53,6 +53,10 @@ ul {
 	text-decoration: none;
 }
 
+section {
+	background-color: #FFE2B8;
+}
+
 .subhead {
 	font-family: century-gothic, sans-serif;
 	font-weight: 700;
