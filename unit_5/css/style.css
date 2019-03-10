@@ -46,15 +46,6 @@ ul {
     color: #fff;
 }
 
-}
-.navigation > a {
-    display: inline-block;
-    vertical-align: top;
-    margin-right: 20px;
-    height: 80px;        /* if you want it to take the full height of the bar */
-    line-height: 80px;    /* if you want it vertically middle of the navbar */
-}
-
 .subhead {
 	font-family: century-gothic, sans-serif;
 	font-weight: 700;
