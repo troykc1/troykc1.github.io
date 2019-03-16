@@ -83,7 +83,10 @@ nav a:hover {
 	font-size: 1.2em;
 	text-align: center;
 	display: block;
-	margin: 1em;
+	margin-left: 10em;
+	margin-right: 10em;
+	margin-bottom: 5em;
+	margin-top: 5em;
 }
 
 /* End Introduction */
