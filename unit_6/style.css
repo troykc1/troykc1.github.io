@@ -1,0 +1,146 @@
+body {
+	background-color: #F2F1F2;
+	color: #484848;
+	margin: 0;
+}
+
+/* Remove */
+header {
+	background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+/* Remove */
+
+nav {
+	display: block;
+	/* Change back to 15px */
+    padding: 20px;
+    /* Change color back to #fff */
+    background-color: #E8C66A;
+    /* Remove this border */
+    border: 1px black solid;
+    color: #fff;
+}
+
+h1 {
+	color: #086375;
+}
+
+h2 {
+	font-family: century-gothic, sans-serif;
+	font-weight: 900;
+	font-style: normal;	
+	font-size: 2em;
+	color: #086375;
+	text-align: center;
+}
+
+p {
+	font-family: century-gothic, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+ul {
+	font-family: century-gothic, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.navlink {
+	font-family: century-gothic, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	color: #262626;
+	text-decoration: none;
+}
+
+/* Remove */
+section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+    padding: 20px;
+}
+/* Remove */
+
+.subhead {
+	font-family: century-gothic, sans-serif;
+	font-weight: 700;
+	font-style: bold;
+}
+
+.prefooter {
+	/* Change background color back to #FFF */
+	background-color: #FFE2B8;
+	/* Remove */
+	border: 1px black solid;
+	color: #086375;
+	text-align: center;
+	/* Change padding back to 50px */
+	padding: 20px;
+}
+
+.ready {
+	background-color: #086375;
+	border: none;
+	color: #fff;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 36px;
+	color: #fff;
+}
+
+#hero {
+	display: block;
+	margin: 0 auto;
+}
+
+#intro {
+	font-family: century-gothic, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 1.2em;
+	text-align: center;
+}
+
+
+#wrapper {
+    box-sizing: border-box;
+	padding: 10px;
+	padding-top: 0px
+}
+
+#two_column {
+	background-color: #ffb7cf;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: #e582a2;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#right {
+	background-color: #e55b88;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+    display: block;
+    justify-content: left;
+    /* Change padding back to 50px */
+    padding: 20px;
+    /* Change color back to #086375 */
+    background-color: #FF957E;
+    /* Remove */
+    border: 1px black solid;
+    color: #fff;
+}
