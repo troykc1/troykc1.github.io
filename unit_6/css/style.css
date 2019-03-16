@@ -129,17 +129,21 @@ footer {
 }
 
 #left {
-	background-color: violet;
-	border: 1px black solid;
+	background-color: #086375;
+	/* Keeping border element in place */
+	border: none;
+	/* Keeping border element in place */
 	padding: 20px;
 	float: left;
-	width: 30%;
+	width: 10%;
 }
 
 #right {
-	background-color: pink;
-	border: 1px black solid;
+	background-color: #086375;
+	/* Keeping border element in place */
+	border: none;
+	/* Keeping border element in place */
 	padding: 20px;
 	float: right;
-	width: 62%;
+	width: 82%;
 }
