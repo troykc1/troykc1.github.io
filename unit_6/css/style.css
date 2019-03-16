@@ -53,6 +53,10 @@ footer {
     padding: 50px;
     background-color: #086375;
     color: #fff;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
 }
 
 .navlink {
@@ -123,7 +127,7 @@ footer {
 }
 
 #two_column {
-	background-color: #FFB7CF;
+	background-color: #086375;
 	border: 1px black solid;
 	padding: 20px;
 }
