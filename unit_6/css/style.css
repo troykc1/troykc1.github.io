@@ -50,7 +50,8 @@ ul {
 
 footer {
     display: block;
-    padding: 70px;
+    padding: 50px;
+    height: 250px;
     background-color: #086375;
     color: #fff;
     width: 100%;
