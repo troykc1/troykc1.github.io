@@ -81,14 +81,10 @@ footer {
 }
 
 .prefooter {
-	/* Change background color back to #FFF */
-	background-color: #FFE2B8;
-	/* Remove */
-	border: 1px black solid;
+	background-color: #FFF;
 	color: #086375;
 	text-align: center;
-	/* Change padding back to 50px */
-	padding: 20px;
+	padding: 50px;
 }
 
 .ready {
