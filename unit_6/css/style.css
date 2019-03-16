@@ -98,7 +98,7 @@ nav a:hover {
 	display: block;
 	margin-left: 10em;
 	margin-right: 10em;
-	margin-bottom: 5em;
+	margin-bottom: 2em;
 }
 
 .intro_column {
@@ -108,6 +108,15 @@ nav a:hover {
 	padding: 20px;
 	margin: 0;
 	text-align: center;
+}
+
+.intro_clearfix:after {
+  	visibility: hidden;
+ 	display: block;
+  	font-size: 0;
+  	content: " ";
+  	clear: both;
+ 	height: 0;
 }
 
 /* End Introduction */
