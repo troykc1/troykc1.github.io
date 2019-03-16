@@ -58,7 +58,7 @@ ul {
 footer {
     display: block;
     padding: 50px;
-    height: 250px;
+    height: 200px;
     background-color: #086375;
     color: #fff;
     width: 100%;
@@ -143,7 +143,9 @@ footer {
 
 #two_column {
 	background-color: #086375;
-	border: 1px black solid;
+	/* Keeping border element in place */
+	border: none;
+	/* Keeping border element in place */
 	padding: 20px;
 }
 
@@ -168,6 +170,11 @@ footer {
 }
 
 #copyright {
-	background-color: #086375;
 	padding: 20px;
+}
+
+#copyright_block {
+	display: block;
+	background-color: #086375;
+	padding: 5px;
 }
