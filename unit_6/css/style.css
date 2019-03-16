@@ -101,6 +101,10 @@ nav a:hover {
 	margin-bottom: 2em;
 }
 
+#intro_services {
+
+}
+
 .intro_column {
 	float: left;
 	width: 260px;
@@ -110,7 +114,9 @@ nav a:hover {
 	text-align: center;
 }
 
-.intro_clearfix:after {
+.clearfix:after {
+	display: inline-block;
+	margin-left: 3px;
   	visibility: hidden;
  	display: block;
   	font-size: 0;
