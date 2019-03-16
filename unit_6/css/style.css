@@ -4,22 +4,10 @@ body {
 	margin: 0;
 }
 
-/* Remove */
-header {
-	background-color: #FFED74;
-    border: 1px black solid;
-    padding: 20px;
-}
-/* Remove */
-
 nav {
 	display: block;
-	/* Change back to 15px */
-    padding: 20px;
-    /* Change color back to #fff */
-    background-color: #E8C66A;
-    /* Remove this border */
-    border: 1px black solid;
+    padding: 15px;
+    background-color: #FFF;
     color: #fff;
 }
 
