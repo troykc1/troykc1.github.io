@@ -48,6 +48,13 @@ ul {
 	font-style: normal;
 }
 
+footer {
+    display: block;
+    padding: 50px;
+    background-color: #086375;
+    color: #fff;
+}
+
 .navlink {
 	font-family: century-gothic, sans-serif;
 	font-weight: 400;
@@ -55,14 +62,6 @@ ul {
 	color: #262626;
 	text-decoration: none;
 }
-
-/* Remove */
-section {
-	background-color: #FFE2B8;
-	border: 1px black solid;
-    padding: 20px;
-}
-/* Remove */
 
 .subhead {
 	font-family: century-gothic, sans-serif;
@@ -117,7 +116,6 @@ section {
 	text-align: center;
 }
 
-
 #wrapper {
     box-sizing: border-box;
 	padding: 10px;
@@ -144,16 +142,4 @@ section {
 	padding: 20px;
 	float: right;
 	width: 62%;
-}
-
-footer {
-    display: block;
-    justify-content: left;
-    /* Change padding back to 50px */
-    padding: 20px;
-    /* Change color back to #086375 */
-    background-color: #FF957E;
-    /* Remove */
-    border: 1px black solid;
-    color: #fff;
 }
