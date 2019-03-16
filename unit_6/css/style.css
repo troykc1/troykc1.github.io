@@ -56,7 +56,6 @@ footer {
     width: 100%;
     bottom: 0;
     left: 0;
-    right: 0;
 }
 
 .navlink {
@@ -96,6 +95,14 @@ footer {
 	cursor: pointer;
 	border-radius: 36px;
 	color: #fff;
+}
+
+.footlink {
+	font-family: century-gothic, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	color: #fff;
+	text-decoration: none;
 }
 
 .clearfix:after {
