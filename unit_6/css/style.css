@@ -101,6 +101,14 @@ nav a:hover {
 	margin-bottom: 5em;
 }
 
+.intro_column {
+	float: left;
+	width: 260px;
+  	height: 300px;
+	padding: 20px;
+	margin: 0;
+}
+
 /* End Introduction */
 
 h1 {
