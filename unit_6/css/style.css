@@ -76,15 +76,17 @@ nav a:hover {
 
 /* Begin Introduction */
 
+#section_one {
+	margin-top: 5em;
+}
+
 #headline_one {
 	font-family: century-gothic, sans-serif;
-	font-weight: 900;
+	font-weight: 400;
 	font-style: normal;	
 	font-size: 2em;
 	color: #086375;
 	text-align: center;
-	margin-top: 5em;
-
 }
 
 #intro {
