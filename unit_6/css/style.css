@@ -103,20 +103,20 @@ nav a:hover {
 
 #intro_services {
 
-}
+}	
 
 .intro_column {
+	display: inline-block;
+	margin-left: 40px;
+	margin: 0;
 	float: left;
 	width: 260px;
   	height: 300px;
 	padding: 20px;
-	margin: 0;
 	text-align: center;
 }
 
 .clearfix:after {
-	display: inline-block;
-	margin-left: 3px;
   	visibility: hidden;
  	display: block;
   	font-size: 0;
