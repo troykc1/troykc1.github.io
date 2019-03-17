@@ -128,6 +128,12 @@ nav a:hover {
 
 /* End Introduction */
 
+/* Begin 'How It Works' */
+
+#section_two {
+	margin-top: 5em;
+}
+
 h1 {
 	color: #086375;
 }
