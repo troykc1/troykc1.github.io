@@ -102,8 +102,7 @@ nav a:hover {
 }
 
 #intro_services {
-	padding-left: 80px;
-
+	padding-left: 75px;
 }	
 
 .intro_column {
@@ -131,7 +130,8 @@ nav a:hover {
 /* Begin 'How It Works' */
 
 #section_two {
-	margin-top: 25em;
+	margin-top: 15em;
+	background-color: #F2F1F2;
 }
 
 #headline_two {
@@ -143,7 +143,31 @@ nav a:hover {
 	text-align: center;
 }
 
-/* End'How It Works' */
+#hiw {
+	padding-left: 80px;
+}
+
+.hiw_column {
+	display: inline-block;
+	margin-left: 40px;
+	margin: 0;
+	float: left;
+	width: 260px;
+  	height: 300px;
+	padding: 20px;
+	text-align: center;
+}
+
+.clearfix:after {
+  	visibility: hidden;
+ 	display: block;
+  	font-size: 0;
+  	content: " ";
+  	clear: both;
+ 	height: 0;
+}
+
+/* End 'How It Works' */
 
 h1 {
 	color: #086375;
