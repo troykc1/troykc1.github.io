@@ -131,8 +131,19 @@ nav a:hover {
 /* Begin 'How It Works' */
 
 #section_two {
-	margin-top: 5em;
+	margin-top: 25em;
 }
+
+#headline_two {
+	font-family: century-gothic, sans-serif;
+	font-weight: 400;
+	font-style: normal;	
+	font-size: 2em;
+	color: #086375;
+	text-align: center;
+}
+
+/* End'How It Works' */
 
 h1 {
 	color: #086375;
