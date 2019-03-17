@@ -132,7 +132,7 @@ nav a:hover {
 
 #section_two {
 	display: block;
-    height: 500px;
+    height: 480px;
 	margin-top: 15em;
 	width: 100%;
 	background-color: #F2F1F2;
@@ -275,12 +275,16 @@ footer {
 }
 
 #two_column {
+	box-sizing: border-box;
+	height: 400px;
+	margin: 0 auto;
 	background-color: #086375;
 	/* Keeping border element in place */
 	border: none;
 	/* Keeping border element in place */
 	padding: 20px;
 	padding-bottom: 80px;
+	width: 100%;
 }
 
 #left {
@@ -290,7 +294,7 @@ footer {
 	/* Keeping border element in place */
 	padding: 20px;
 	float: left;
-	width: 10%;
+	width: 8%;
 }
 
 #right {
@@ -307,4 +311,6 @@ footer {
 	display: block;
 	background-color: #086375;
 	padding: 20px;
+	width: 96%;
+	float: right;
 }
