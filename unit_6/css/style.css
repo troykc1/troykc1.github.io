@@ -175,6 +175,30 @@ nav a:hover {
 
 /* End 'How It Works' */
 
+/* Begin 'Why Rinsed' */
+
+#section_three {
+	display: block;
+    height: 480px;
+	margin-top: 5em;
+	width: 100%;
+	background-color: #FFF;
+}
+
+#why {
+	float: left;
+	padding-left: 40px;
+	padding-top: 20px;
+}
+
+#why_text {
+	float: right;
+	padding-right: 140px;
+	padding-left: 10px;
+}
+
+/* End 'Why Rinsed' */
+
 h1 {
 	color: #086375;
 }
