@@ -31,6 +31,7 @@ nav a:hover {
 .logo { 
  	float: left;
   	display: inline-block;
+  	padding-right: 10px;
 }
 
 .navlink {
@@ -179,10 +180,20 @@ nav a:hover {
 
 #section_three {
 	display: block;
-    height: 480px;
+    height: 400px;
 	margin-top: 5em;
+	margin-bottom: 5em;
 	width: 100%;
 	background-color: #FFF;
+}
+
+.headline_three {
+	font-family: century-gothic, sans-serif;
+	font-weight: 400;
+	font-style: normal;	
+	font-size: 2em;
+	color: #086375;
+	text-align: center;
 }
 
 #why {
