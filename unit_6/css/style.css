@@ -103,8 +103,8 @@ nav a:hover {
 }
 
 #intro_services {
-	padding-left: 65px;
-	padding-right: 65px;
+	padding-left: 160px;
+	padding-right: 100px;
 }	
 
 .intro_column {
@@ -150,8 +150,8 @@ nav a:hover {
 }
 
 #hiw {
-	padding-left: 65px;
-	padding-right: 65px;
+	padding-left: 160px;
+	padding-right: 100px;
 }
 
 .hiw_column {
@@ -198,13 +198,13 @@ nav a:hover {
 
 #why {
 	float: left;
-	padding-left: 40px;
+	padding-left: 100px;
 	padding-top: 20px;
 }
 
 #why_text {
 	float: right;
-	padding-right: 140px;
+	padding-right: 200px;
 	padding-left: 10px;
 }
 
