@@ -242,19 +242,19 @@ nav a:hover {
 #body_three {
 	width: 100%;
 	margin-top: 5em;
-	border: 1px solid #000;
 }
 
 #why {
 	float: left;
-	padding-left: 10em;
+	padding-left: 8em;
+	max-width: 100%;
+	display: inline-block;
 }
 
 #why_text {
 	float: right;
 	padding-right: 15em;
-	padding-bottom: 5px;
-	border: 1px solid #000;
+	padding-left: 2em;
 }
 
 .clearfix:after {
@@ -271,6 +271,7 @@ nav a:hover {
 /* Begin Prefooter */
 
 #section_four {
+	width: 100%;
 	margin-top: 5em;
 	margin-bottom: 5em;
 }
