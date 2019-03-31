@@ -107,19 +107,23 @@ nav a:hover {
 }
 
 #intro_services {
-	padding-left: 160px;
-	padding-right: 100px;
+	max-width: 100%;
 }	
 
 .intro_column {
 	display: block;
-	margin-left: 40px;
-	margin: 0;
+	margin-left: 2em;
 	float: left;
 	width: 20%;
   	height: 300px;
 	padding: 5%;
 	text-align: center;
+}
+
+.intro_text {
+	max-width: 100%;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 .laundry_one_image {
@@ -128,18 +132,16 @@ nav a:hover {
 	display: inline-block;
 }
 
-.subhead_one {
-	font-family: century-gothic,sans-serif;
-	font-weight: 700;
-	font-style: normal;	
-	font-size: 1.2em;
-	color: #086375;
-	display: block;
-	text-align: center;
-	width: 100%;
-	padding: 0 2em 0 0.5em;
-	/* Remove this border */
-	border: 1px solid #000;
+.dry_one_image {
+	max-width: 100%;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+.press_one_image {
+	max-width: 100%;
+	vertical-align: middle;
+	display: inline-block;
 }
 
 .clearfix:after {
@@ -275,6 +277,10 @@ footer {
     left: 0;
 }
 
+.footer_head {
+	color: #fff
+}
+
 .footlink {
 	font-family: century-gothic, sans-serif;
 	font-weight: 400;
@@ -349,6 +355,15 @@ h2 {
 	text-align: center;
 }
 
+h3 {
+	font-family: century-gothic,sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 1.2em;
+	color: #262626;
+	margin-bottom: 1em;
+}
+
 h5 {
 	font-family: century-gothic, sans-serif;
 	font-weight: 400;
@@ -360,6 +375,7 @@ p {
 	font-family: century-gothic, sans-serif;
 	font-weight: 400;
 	font-style: normal;
+	color: #262626;
 }
 
 .subhead {
