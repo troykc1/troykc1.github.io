@@ -1,6 +1,7 @@
 body {
 	background-color: #ffffff;
 	color: #484848;
+	font-size: 16px;
 	margin: 0;
 }
 
@@ -81,8 +82,6 @@ nav a:hover {
 	margin-top: 5em;
 	width: 100%;
 	background-color: #fff;
-	/* Remove this border */
-	border: 1px solid #000;
 }
 
 #headline_one {
@@ -111,12 +110,14 @@ nav a:hover {
 }	
 
 .intro_column {
-	display: block;
+	display: inline-block;
 	margin-left: 2em;
 	float: left;
 	width: 20%;
   	height: 300px;
-	padding: 5%;
+  	padding-top: 2%;
+	padding-right: 5%;
+	padding-left: 5%;
 	text-align: center;
 }
 
@@ -124,6 +125,11 @@ nav a:hover {
 	max-width: 100%;
 	margin-right: auto;
 	margin-left: auto;
+}
+
+.text_one {
+	line-height: 1.5em;
+	margin-bottom: 0px;
 }
 
 .laundry_one_image {
