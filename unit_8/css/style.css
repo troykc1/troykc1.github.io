@@ -51,7 +51,7 @@ nav a:hover {
 	font-family: century-gothic, sans-serif;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 16px;
+	font-size: 1em;
 	color: white;
 	text-decoration: none;
 	cursor: pointer;
@@ -182,19 +182,30 @@ nav a:hover {
 }
 
 #hiw {
-	padding-left: 160px;
-	padding-right: 100px;
+	max-width: 100%;
 }
 
 .hiw_column {
 	display: inline-block;
-	margin-left: 40px;
-	margin: 0;
+	margin-left: 2em;
 	float: left;
-	width: 260px;
+	width: 20%;
   	height: 300px;
-	padding: 20px;
+  	padding-top: 2%;
+	padding-right: 5%;
+	padding-left: 5%;
 	text-align: center;
+}
+
+.hiw_text {
+	max-width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.text_two {
+	line-height: 1.5em;
+	margin-bottom: 0px;
 }
 
 .clearfix:after {
@@ -228,16 +239,31 @@ nav a:hover {
 	text-align: center;
 }
 
+#body_three {
+	width: 100%;
+	margin-top: 5em;
+	border: 1px solid #000;
+}
+
 #why {
 	float: left;
-	padding-left: 100px;
-	padding-top: 20px;
+	padding-left: 10em;
 }
 
 #why_text {
 	float: right;
-	padding-right: 250px;
-	padding-left: 20px;
+	padding-right: 15em;
+	padding-bottom: 5px;
+	border: 1px solid #000;
+}
+
+.clearfix:after {
+  	visibility: hidden;
+ 	display: block;
+  	font-size: 0;
+  	content: " ";
+  	clear: both;
+ 	height: 0;
 }
 
 /* End 'Why Rinsed' */
