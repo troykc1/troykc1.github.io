@@ -437,8 +437,12 @@ p {
 
 /* Media Queries */
 
-@media only screen and (max-width: 960px) {
-	
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait) { 
+
+
 body {
 	background-color: #ffffff;
 	color: #484848;
@@ -737,9 +741,12 @@ nav a:hover {
 
 #why {
 	float: none;
-	max-width: 100%;
-	display: inline-block;
-	padding-left: 21%;
+	display: block;
+	height: 100%;
+	width: 100%;
+	background-size: cover;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
 }
 
 #why_text {
@@ -920,7 +927,7 @@ p {
     box-sizing: border-box;
 	padding: 10px;
 	padding-top: 0px
-}
+} 
 
 
 }
@@ -931,11 +938,7 @@ p {
 
 
 
-@media only screen 
-and (min-device-width : 375px) 
-and (max-device-width : 812px) 
-and (-webkit-device-pixel-ratio : 3)
-and (orientation : portrait) {
+@media only screen and (min-device-width : 375px) {
 
 	body {
 	background-color: #ffffff;
@@ -1027,9 +1030,10 @@ nav a:hover {
 	font-family: century-gothic, sans-serif;
 	font-weight: 400;
 	font-style: normal;	
-	font-size: 1em;
+	font-size: 0.2em;
 	color: #086375;
 	text-align: center;
+	margin: 0 2em 0 2em;
 }
 
 #intro {
@@ -1419,4 +1423,6 @@ p {
 	padding: 10px;
 	padding-top: 0px
 }
+
+
 }
